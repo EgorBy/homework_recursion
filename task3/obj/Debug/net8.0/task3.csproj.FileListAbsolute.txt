@@ -1,0 +1,14 @@
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.AssemblyInfoInputs.cache
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.AssemblyInfo.cs
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.csproj.CoreCompileInputs.cache
+/home/egor/с#/hw8/task3/bin/Debug/net8.0/task3
+/home/egor/с#/hw8/task3/bin/Debug/net8.0/task3.deps.json
+/home/egor/с#/hw8/task3/bin/Debug/net8.0/task3.runtimeconfig.json
+/home/egor/с#/hw8/task3/bin/Debug/net8.0/task3.dll
+/home/egor/с#/hw8/task3/bin/Debug/net8.0/task3.pdb
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.dll
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/refint/task3.dll
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.pdb
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/task3.genruntimeconfig.cache
+/home/egor/с#/hw8/task3/obj/Debug/net8.0/ref/task3.dll
